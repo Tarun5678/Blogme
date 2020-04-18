@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28f569f0-6a15-421e-931d-097392493458" name="Default Changelist" comment="" />
+    <list default="true" id="28f569f0-6a15-421e-931d-097392493458" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -25,16 +27,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/environment.env" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Flask Blog" />
+      <recent name="D:\Flask Blog\src\FlaskBlog" />
       <recent name="D:\Flask Blog\src\FlaskBlog\static" />
       <recent name="D:\Flask Blog\src\FlaskBlog\templates" />
-      <recent name="D:\Flask Blog\src\FlaskBlog" />
       <recent name="D:\Flask Blog\src" />
-      <recent name="D:\Flask Blog\src\scripts" />
     </key>
   </component>
   <component name="RunDashboard">
