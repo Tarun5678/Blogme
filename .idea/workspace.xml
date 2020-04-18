@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28f569f0-6a15-421e-931d-097392493458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Flask Blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tharu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/errors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/errors/handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/main/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/posts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/posts/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/posts/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/site.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/01408eff61901d61wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/10279a03b8b500b3pramod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/1cf5e326d9e3e08awallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/38183fdbbc4994e3default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/49faeed448f55fe11cf5e326d9e3e08awallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/92482849c1232d50default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/fde9a6870cca6b88wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/account.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/create_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/reset_request.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/reset_token.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/user_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/run.py" afterDir="false" />
-    </list>
+    <list default="true" id="28f569f0-6a15-421e-931d-097392493458" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
