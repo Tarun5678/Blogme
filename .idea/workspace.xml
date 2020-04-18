@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28f569f0-6a15-421e-931d-097392493458" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flask Blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tharu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/errors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/errors/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/main/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/posts/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/site.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/01408eff61901d61wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/10279a03b8b500b3pramod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/1cf5e326d9e3e08awallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/38183fdbbc4994e3default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/49faeed448f55fe11cf5e326d9e3e08awallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/92482849c1232d50default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/static/picture/fde9a6870cca6b88wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/errors/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/reset_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/reset_token.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/templates/user_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FlaskBlog/users/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aSMpEHghRQMBD1OAZ0nG34W44A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/environment.env" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Flask Blog\src\FlaskBlog\static" />
+      <recent name="D:\Flask Blog\src\FlaskBlog\templates" />
+      <recent name="D:\Flask Blog\src\FlaskBlog" />
+      <recent name="D:\Flask Blog\src" />
+      <recent name="D:\Flask Blog\src\scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="FlaskBlog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask Blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="EMAIL_USER" value="tharun5678@gmail.com" />
+        <env name="EMAIL_PASSWORD" value="Tharun@1234" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH="venv/environment.env" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask Blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="EMAIL_USER" value="tharun5678@gmail.com" />
+        <env name="EMAIL_PASSWORD" value="Tharun@1234" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/FlaskBlog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH="venv/environment.env" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FlaskBlog/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask Blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/FlaskBlog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH="venv/environment.env" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FlaskBlog/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask Blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="EMAIL_USER" value="tharun5678@gmail.com" />
+        <env name="EMAIL_PASSWORD" value="Tharun@1234" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="env" PATH="venv/environment.env" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.FlaskBlog" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.config" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.FlaskBlog" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f569f0-6a15-421e-931d-097392493458" name="Default Changelist" comment="" />
+      <created>1586724722758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586724722758</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updated authentication">
+      <created>1586923970154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586923970154</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated authentication">
+      <created>1586923991484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586923991484</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implemented user accounts">
+      <created>1587076533806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587076533806</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implemented Blueprints">
+      <created>1587164337730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587164337730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated authentication" />
+    <MESSAGE value="Implemented user accounts" />
+    <MESSAGE value="Implemented Blueprints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Blueprints" />
+  </component>
+</project>
