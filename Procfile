@@ -1,0 +1,1 @@
+web: gunicorn Flask Blog.wsgi
