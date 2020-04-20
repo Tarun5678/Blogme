@@ -4,6 +4,7 @@ from flask_login import current_user, login_required
 from src.FlaskBlog import db
 from src.FlaskBlog.models import Post
 from src.FlaskBlog.posts.forms import PostForm
+from src.FlaskBlog.posts.utils import save_picture
 posts = Blueprint('posts', __name__)
 
 
@@ -13,8 +14,10 @@ posts = Blueprint('posts', __name__)
 def new_post():
     form = PostForm()
     if form.validate_on_submit():
+        print(form.post_pic.data)
+        picture_file = save_picture(form.post_pic.data)
         post = Post(title=form.title.data, content=form.content.data,
-                    author=current_user)
+                    author=current_user,post_pic = picture_file)
         db.session.add(post)
         db.session.commit()
         flash("Your post has been created", 'success')
